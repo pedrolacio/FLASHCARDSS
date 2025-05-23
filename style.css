@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(76, 122, 112);
+}
+footer {
+    footer {
+    background-color: black;
+    color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0,5rem;
+}
