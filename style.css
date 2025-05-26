@@ -1,5 +1,12 @@
 body {
     background-color: rgb(76, 122, 112);
+    font-family: Bai Jamjuree;
+}
+
+#container {
+    /* display:flex ;
+    .cartao {
+    margin: 1rem 1rem;
 }
 footer {
     footer {
